@@ -17,7 +17,6 @@ Users.csv
 Columns = ('User_ID', 'Location', 'Age’ )
 Shape = (278858,3)
 
-https://pm1.narvii.com/6769/cda6e56600ccbaf2a8e3338e40b0b97b0782f5dfv2_hq.jpg
 
 we have preprocessed the data, perform EDA and visualizations,imputed the null values and perform all necessary correactions.
 used Cosine similarity and CSR algorithms to build and evaluate the model 
